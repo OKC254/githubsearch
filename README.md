@@ -1,5 +1,5 @@
 
-# Github-search
+# Github-Search
 #### By **OSCAR KIPLIMO**
 
 ## Description
