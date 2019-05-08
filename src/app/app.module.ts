@@ -25,7 +25,7 @@ import { NotFoundComponent } from './not-found/not-found.component';
     GithubComponent,
     UserComponent,
     RepositoryComponent,
-    NotFoundComponent
+    NotFoundComponent,
   ],
   imports: [
     BrowserModule,
