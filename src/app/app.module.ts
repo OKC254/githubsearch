@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { GithubComponent } from './github/github.component';
 import { RepositoryComponent } from './repository/repository.component';
+import { UserComponent } from './user/user.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NotFoundComponent,
     GithubComponent,
-    RepositoryComponent
+    RepositoryComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,
